@@ -3,6 +3,7 @@ Object Detection using YOLOv3
 
 ### Download the Yolov3 Weights
  -Download the yolov3 weights from the below given link and add paste it in the same directory
+ https://pjreddie.com/media/files/yolov3.weights
  
  ### How to run the code
 
