@@ -15,7 +15,7 @@ Command line usage for object detection using YOLOv3
     	
 
     ```bash
-    python3 Video_Detection.py --image=city.jpg
+    python Video_Detection.py --image=city.jpg
     ```
 
   * A video file:
